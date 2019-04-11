@@ -1,0 +1,3 @@
+[submodule "MTCDisplay"]
+	path = MTCDisplay
+	url = https://github.com/AlexDWong/MTCDisplay.git
